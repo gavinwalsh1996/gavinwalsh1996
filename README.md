@@ -12,8 +12,7 @@ Connect with me
 
 - 📫 How to reach me ... gavinwalsh739@gmail.com.
 - 📫 LinkedIn ... linkedin.com/in/gavin-walsh-269b35238
-- 💻 Portfolio ... https://gavinwalsh.netlify.app/
-- 
+- 💻 Portfolio ... https://gavinwalsh.netlify.app/ 
 
 
 
