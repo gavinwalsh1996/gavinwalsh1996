@@ -6,12 +6,12 @@ About Me
 - 👋 Hi, I’m @gavinwalsh1996
 - 🏡 I'm based in ... Barcelona.
 - 👀 I’m interested in ... Programming, snowboarding and anything sports related.
-- 🌱 I’m currently learning ... React and improving my overall javascript skills. I'm considering making my next project with Tailwind CSS as it looks very fast and effective. I'm also starting to learn Node JS and a testing framework.
+- 🌱 I’m currently learning ... React and improving my overall javascript skills. I'm starting to learn Node JS and a testing framework.
 - 💞️ I’m looking to ... Work with an employer to improve my skills in a professional environment.
 
 Languages and Tools
 
-🔑 HTML, CSS/SCSS, SASS, JAVASCRIPT, REACT, GIT
+🔑 HTML, CSS/SCSS, SASS, TAILWIND, JAVASCRIPT, REACT, GIT
 
 
 Connect with me
