@@ -6,9 +6,9 @@ Hey! 👋
 About Me
 
 - 👋 Hi, I’m @gavinwalsh1996
-- 🏡 I'm based in ... Barcelona.
+- 🏡 I'm based in ... Vancouver.
 - 👀 I’m interested in ... Programming, snowboarding and anything sports related.
-- 🌱 I’m currently learning ... React and improving my overall javascript skills. I'm starting to learn Node JS and a testing framework.
+- 🌱 I’m currently learning ... React and improving my overall javascript skills. I'm starting to learn BE development.
 - 💞️ I’m looking to ... Work with an employer to improve my skills in a professional environment.
 
 Languages and Tools
