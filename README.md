@@ -8,12 +8,12 @@ About Me
 - 👋 Hi, I’m @gavinwalsh1996
 - 🏡 I'm based in ... Vancouver.
 - 👀 I’m interested in ... Programming, snowboarding and anything sports related.
-- 🌱 I’m currently learning ... React and improving my overall javascript skills. I'm starting to learn BE development.
+- 🌱 I’m currently working on ... Improving my FE skills and learning BE development.
 - 💞️ I’m looking to ... Work with an employer to improve my skills in a professional environment.
 
 Languages and Tools
 
-🔑 HTML, CSS/SCSS, SASS, TAILWIND, JAVASCRIPT, REACT, GIT
+🔑 HTML/Handlebars, CSS/SASS/LESS, TAILWIND, JAVASCRIPT, REACT, GIT
 
 
 Connect with me
