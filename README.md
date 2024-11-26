@@ -6,14 +6,12 @@ Hey! 👋
 About Me
 
 - 👋 Hi, I’m @gavinwalsh1996
-- 🏡 I'm based in ... Vancouver.
-- 👀 I’m interested in ... Programming, snowboarding and anything sports related.
-- 🌱 I’m currently working on ... Improving my FE skills and learning BE development.
-- 💞️ I’m looking to ... Work with an employer to improve my skills in a professional environment.
+- 🏡 I'm based in ... Burnaby, BC, Canada
 
-Languages and Tools
+Currently developing with:
 
-🔑 HTML/Handlebars, CSS/SASS/LESS, TAILWIND, JAVASCRIPT, REACT, GIT
+🔑 Node & Express
+🔑 Next, Tailwind, JS
 
 
 Connect with me
