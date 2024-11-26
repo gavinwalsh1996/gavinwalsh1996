@@ -10,8 +10,7 @@ About Me
 
 Currently developing with:
 
-🔑 Node & Express
-🔑 Next, Tailwind, JS
+🔑 Currently devolping using Javascript - Node, Express, Next, Tailwind
 
 
 Connect with me
