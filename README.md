@@ -8,10 +8,7 @@ About Me
 - 👋 Hi, I’m @gavinwalsh1996
 - 🏡 I'm based in ... Burnaby, BC, Canada
 
-Currently developing with:
-
 🔑 Currently devolping using Javascript - Node, Express, Next, Tailwind
-
 
 Connect with me
 
